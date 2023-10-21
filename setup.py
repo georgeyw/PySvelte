@@ -20,6 +20,4 @@ setup(
         'typeguard~=2.0'
     ],
     include_package_data=True,
-    use_scm_version=False,
-    setup_requires=['setuptools_scm'],
 )
